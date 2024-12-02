@@ -1,0 +1,30 @@
+E:\Menuprincipal\bin\Debug\net7.0\Menuprincipal.exe
+E:\Menuprincipal\bin\Debug\net7.0\Menuprincipal.deps.json
+E:\Menuprincipal\bin\Debug\net7.0\Menuprincipal.runtimeconfig.json
+E:\Menuprincipal\bin\Debug\net7.0\Menuprincipal.dll
+E:\Menuprincipal\bin\Debug\net7.0\Menuprincipal.pdb
+E:\Menuprincipal\obj\Debug\net7.0\Menuprincipal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Menuprincipal\obj\Debug\net7.0\Menuprincipal.AssemblyInfoInputs.cache
+E:\Menuprincipal\obj\Debug\net7.0\Menuprincipal.AssemblyInfo.cs
+E:\Menuprincipal\obj\Debug\net7.0\Menuprincipal.csproj.CoreCompileInputs.cache
+E:\Menuprincipal\obj\Debug\net7.0\Menuprincipal.dll
+E:\Menuprincipal\obj\Debug\net7.0\refint\Menuprincipal.dll
+E:\Menuprincipal\obj\Debug\net7.0\Menuprincipal.pdb
+E:\Menuprincipal\obj\Debug\net7.0\Menuprincipal.genruntimeconfig.cache
+E:\Menuprincipal\obj\Debug\net7.0\ref\Menuprincipal.dll
+E:\Menuprincipal\obj\Debug\net7.0\Menuprincipal.csproj.AssemblyReference.cache
+C:\Users\cd22\Downloads\proyecto final brindis\proyecto final brindis\Menuprincipal\bin\Debug\net7.0\Menuprincipal.exe
+C:\Users\cd22\Downloads\proyecto final brindis\proyecto final brindis\Menuprincipal\bin\Debug\net7.0\Menuprincipal.deps.json
+C:\Users\cd22\Downloads\proyecto final brindis\proyecto final brindis\Menuprincipal\bin\Debug\net7.0\Menuprincipal.runtimeconfig.json
+C:\Users\cd22\Downloads\proyecto final brindis\proyecto final brindis\Menuprincipal\bin\Debug\net7.0\Menuprincipal.dll
+C:\Users\cd22\Downloads\proyecto final brindis\proyecto final brindis\Menuprincipal\bin\Debug\net7.0\Menuprincipal.pdb
+C:\Users\cd22\Downloads\proyecto final brindis\proyecto final brindis\Menuprincipal\obj\Debug\net7.0\Menuprincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd22\Downloads\proyecto final brindis\proyecto final brindis\Menuprincipal\obj\Debug\net7.0\Menuprincipal.AssemblyInfoInputs.cache
+C:\Users\cd22\Downloads\proyecto final brindis\proyecto final brindis\Menuprincipal\obj\Debug\net7.0\Menuprincipal.AssemblyInfo.cs
+C:\Users\cd22\Downloads\proyecto final brindis\proyecto final brindis\Menuprincipal\obj\Debug\net7.0\Menuprincipal.csproj.CoreCompileInputs.cache
+C:\Users\cd22\Downloads\proyecto final brindis\proyecto final brindis\Menuprincipal\obj\Debug\net7.0\Menuprincipal.sourcelink.json
+C:\Users\cd22\Downloads\proyecto final brindis\proyecto final brindis\Menuprincipal\obj\Debug\net7.0\Menuprincipal.dll
+C:\Users\cd22\Downloads\proyecto final brindis\proyecto final brindis\Menuprincipal\obj\Debug\net7.0\refint\Menuprincipal.dll
+C:\Users\cd22\Downloads\proyecto final brindis\proyecto final brindis\Menuprincipal\obj\Debug\net7.0\Menuprincipal.pdb
+C:\Users\cd22\Downloads\proyecto final brindis\proyecto final brindis\Menuprincipal\obj\Debug\net7.0\Menuprincipal.genruntimeconfig.cache
+C:\Users\cd22\Downloads\proyecto final brindis\proyecto final brindis\Menuprincipal\obj\Debug\net7.0\ref\Menuprincipal.dll

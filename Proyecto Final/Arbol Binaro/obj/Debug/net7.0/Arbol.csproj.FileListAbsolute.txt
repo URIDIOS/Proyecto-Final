@@ -1,0 +1,15 @@
+E:\Arbol\obj\Debug\net7.0\Arbol.csproj.AssemblyReference.cache
+E:\Arbol\obj\Debug\net7.0\Arbol.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arbol\obj\Debug\net7.0\Arbol.AssemblyInfoInputs.cache
+E:\Arbol\obj\Debug\net7.0\Arbol.AssemblyInfo.cs
+E:\Arbol\obj\Debug\net7.0\Arbol.csproj.CoreCompileInputs.cache
+E:\Arbol\bin\Debug\net7.0\Arbol.exe
+E:\Arbol\bin\Debug\net7.0\Arbol.deps.json
+E:\Arbol\bin\Debug\net7.0\Arbol.runtimeconfig.json
+E:\Arbol\bin\Debug\net7.0\Arbol.dll
+E:\Arbol\bin\Debug\net7.0\Arbol.pdb
+E:\Arbol\obj\Debug\net7.0\Arbol.dll
+E:\Arbol\obj\Debug\net7.0\refint\Arbol.dll
+E:\Arbol\obj\Debug\net7.0\Arbol.pdb
+E:\Arbol\obj\Debug\net7.0\Arbol.genruntimeconfig.cache
+E:\Arbol\obj\Debug\net7.0\ref\Arbol.dll

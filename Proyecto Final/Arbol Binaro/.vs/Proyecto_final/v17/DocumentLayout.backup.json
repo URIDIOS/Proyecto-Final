@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Arbol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{324E4A69-F816-46C9-83DB-C83274F1AE2B}|..\\Menuprincipal\\Menuprincipal.csproj|e:\\menuprincipal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E4A69-F816-46C9-83DB-C83274F1AE2B}|..\\Menuprincipal\\Menuprincipal.csproj|e:\\menuprincipal\\listas\\menulista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E4A69-F816-46C9-83DB-C83274F1AE2B}|..\\Menuprincipal\\Menuprincipal.csproj|e:\\menuprincipal\\pilas\\menupila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E4A69-F816-46C9-83DB-C83274F1AE2B}|..\\Menuprincipal\\Menuprincipal.csproj|e:\\menuprincipal\\pilas\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E4A69-F816-46C9-83DB-C83274F1AE2B}|..\\Menuprincipal\\Menuprincipal.csproj|e:\\menuprincipal\\pilas\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E4A69-F816-46C9-83DB-C83274F1AE2B}|..\\Menuprincipal\\Menuprincipal.csproj|e:\\menuprincipal\\arbol\\menuarbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E4A69-F816-46C9-83DB-C83274F1AE2B}|..\\Menuprincipal\\Menuprincipal.csproj|e:\\menuprincipal\\arbol\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E4A69-F816-46C9-83DB-C83274F1AE2B}|..\\Menuprincipal\\Menuprincipal.csproj|e:\\menuprincipal\\listas\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E4A69-F816-46C9-83DB-C83274F1AE2B}|..\\Menuprincipal\\Menuprincipal.csproj|e:\\menuprincipal\\colas\\menucola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E4A69-F816-46C9-83DB-C83274F1AE2B}|..\\Menuprincipal\\Menuprincipal.csproj|e:\\menuprincipal\\arbol\\arbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E4A69-F816-46C9-83DB-C83274F1AE2B}|..\\Menuprincipal\\Menuprincipal.csproj|e:\\menuprincipal\\colas\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E4A69-F816-46C9-83DB-C83274F1AE2B}|..\\Menuprincipal\\Menuprincipal.csproj|e:\\menuprincipal\\listas\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "arbol.cs",
+              "DocumentMoniker": "E:\\Menuprincipal\\Arbol\\arbol.cs",
+              "RelativeDocumentMoniker": "..\\Menuprincipal\\Arbol\\arbol.cs",
+              "ToolTip": "E:\\Menuprincipal\\Arbol\\arbol.cs",
+              "RelativeToolTip": "..\\Menuprincipal\\Arbol\\arbol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:30:49.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pila.cs",
+              "DocumentMoniker": "E:\\Menuprincipal\\Pilas\\pila.cs",
+              "RelativeDocumentMoniker": "..\\Menuprincipal\\Pilas\\pila.cs",
+              "ToolTip": "E:\\Menuprincipal\\Pilas\\pila.cs",
+              "RelativeToolTip": "..\\Menuprincipal\\Pilas\\pila.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:54:56.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "nodo.cs",
+              "DocumentMoniker": "E:\\Menuprincipal\\Pilas\\nodo.cs",
+              "RelativeDocumentMoniker": "..\\Menuprincipal\\Pilas\\nodo.cs",
+              "ToolTip": "E:\\Menuprincipal\\Pilas\\nodo.cs",
+              "RelativeToolTip": "..\\Menuprincipal\\Pilas\\nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:53:53.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Menuprincipal\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Menuprincipal\\Program.cs",
+              "ToolTip": "E:\\Menuprincipal\\Program.cs",
+              "RelativeToolTip": "..\\Menuprincipal\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwD8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:08:33.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menuarbol.cs",
+              "DocumentMoniker": "E:\\Menuprincipal\\Arbol\\Menuarbol.cs",
+              "RelativeDocumentMoniker": "..\\Menuprincipal\\Arbol\\Menuarbol.cs",
+              "ToolTip": "E:\\Menuprincipal\\Arbol\\Menuarbol.cs",
+              "RelativeToolTip": "..\\Menuprincipal\\Arbol\\Menuarbol.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:36:36.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "nodo.cs",
+              "DocumentMoniker": "E:\\Menuprincipal\\Arbol\\nodo.cs",
+              "RelativeDocumentMoniker": "..\\Menuprincipal\\Arbol\\nodo.cs",
+              "ToolTip": "E:\\Menuprincipal\\Arbol\\nodo.cs",
+              "RelativeToolTip": "..\\Menuprincipal\\Arbol\\nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:33:46.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menupila.cs",
+              "DocumentMoniker": "E:\\Menuprincipal\\Pilas\\Menupila.cs",
+              "RelativeDocumentMoniker": "..\\Menuprincipal\\Pilas\\Menupila.cs",
+              "ToolTip": "E:\\Menuprincipal\\Pilas\\Menupila.cs",
+              "RelativeToolTip": "..\\Menuprincipal\\Pilas\\Menupila.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwFYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:25:50.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menucola.cs",
+              "DocumentMoniker": "E:\\Menuprincipal\\Colas\\Menucola.cs",
+              "RelativeDocumentMoniker": "..\\Menuprincipal\\Colas\\Menucola.cs",
+              "ToolTip": "E:\\Menuprincipal\\Colas\\Menucola.cs",
+              "RelativeToolTip": "..\\Menuprincipal\\Colas\\Menucola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:06:26.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "cola.cs",
+              "DocumentMoniker": "E:\\Menuprincipal\\Colas\\cola.cs",
+              "RelativeDocumentMoniker": "..\\Menuprincipal\\Colas\\cola.cs",
+              "ToolTip": "E:\\Menuprincipal\\Colas\\cola.cs",
+              "RelativeToolTip": "..\\Menuprincipal\\Colas\\cola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:06:24.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "nodo.cs",
+              "DocumentMoniker": "E:\\Menuprincipal\\Listas\\nodo.cs",
+              "RelativeDocumentMoniker": "..\\Menuprincipal\\Listas\\nodo.cs",
+              "ToolTip": "E:\\Menuprincipal\\Listas\\nodo.cs",
+              "RelativeToolTip": "..\\Menuprincipal\\Listas\\nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:19:18.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "lista.cs",
+              "DocumentMoniker": "E:\\Menuprincipal\\Listas\\lista.cs",
+              "RelativeDocumentMoniker": "..\\Menuprincipal\\Listas\\lista.cs",
+              "ToolTip": "E:\\Menuprincipal\\Listas\\lista.cs",
+              "RelativeToolTip": "..\\Menuprincipal\\Listas\\lista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:16:38.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menulista.cs",
+              "DocumentMoniker": "E:\\Menuprincipal\\Listas\\Menulista.cs",
+              "RelativeDocumentMoniker": "..\\Menuprincipal\\Listas\\Menulista.cs",
+              "ToolTip": "E:\\Menuprincipal\\Listas\\Menulista.cs",
+              "RelativeToolTip": "..\\Menuprincipal\\Listas\\Menulista.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAIAwwGEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:13:32.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 20,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
